@@ -1,11 +1,13 @@
 # Daniel John Keefer | [xxKeefer][website]
 
 ## Upcoming Web-Wizard and Code-Smith.
-![Twitter Follow](https://img.shields.io/twitter/follow/xxKeefer?color=%231DA1F2&logo=Twitter&style=for-the-badge)
 
 ### Father, Gamer and Big ol' Nerd.
 
+![Twitter Follow](https://img.shields.io/twitter/follow/xxKeefer?color=%231DA1F2&logo=Twitter&style=for-the-badge)
+
 #### 🎶 I'm vibing to...
+
 [![Spotify](https://novatorem.xxkeefer.vercel.app//api/spotify)](https://open.spotify.com/user/12179586444)
 
 **Things to know about me:**
