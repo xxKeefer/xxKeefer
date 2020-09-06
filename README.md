@@ -14,7 +14,11 @@
 - 🚀 I love Star Trek, DnD and Overwatch. Talk for hours about this stuff.
 
 ### I'm vibing to...
-
+[![Spotify](https://novatorem.xxkeefer.vercel.app//api/spotify)](https://open.spotify.com/user/12179586444)
 
 ### My Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master.xxkeefer.vercel.app/api?username=xxKeefer&show_icons=true&hide_border=true" />
