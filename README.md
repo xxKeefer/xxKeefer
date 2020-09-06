@@ -5,6 +5,9 @@
 
 ### Father, Gamer and Big ol' Nerd.
 
+#### 🎶 I'm vibing to...
+[![Spotify](https://novatorem.xxkeefer.vercel.app//api/spotify)](https://open.spotify.com/user/12179586444)
+
 **Things to know about me:**
 
 - 🧙‍♂️ I'm currently studying at Coder Academy.
@@ -12,9 +15,6 @@
 - 🎮 Looking forward to Cyberpunk 2077.
 - ↪️ 2020 Goal: Switch Industries, from Sales to Tech.
 - 🚀 I love Star Trek, DnD and Overwatch. Talk for hours about this stuff.
-
-### I'm vibing to...
-[![Spotify](https://novatorem.xxkeefer.vercel.app//api/spotify)](https://open.spotify.com/user/12179586444)
 
 ### My Stats
 
