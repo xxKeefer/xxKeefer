@@ -16,8 +16,6 @@
 - ↪️ 2020 Goal: Switch Industries, from Sales to Tech.
 - 🚀 I love Star Trek, DnD and Overwatch. Talk for hours about this stuff.
 
-### My Stats
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
