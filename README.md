@@ -2,6 +2,8 @@
 
 ## Upcoming Web-Wizard and Code-Smith.
 
+**Code is like a joke. When you have to explain it with comments, you should rewrite the joke.**
+
 ### Father, Gamer and Big ol' Nerd.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/xxKeefer?color=%231DA1F2&logo=Twitter&style=for-the-badge)
