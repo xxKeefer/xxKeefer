@@ -8,6 +8,10 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/xxKeefer?color=%231DA1F2&logo=Twitter&style=for-the-badge)
 
+- [🐦 Twitter](https://twitter.com/xxKeefer)
+- [📑 LinkedIn](https://www.linkedin.com/in/xxkeefer/)
+- [🌐 Website](www.keefer.tech)
+
 #### 🎶 I'm vibing to...
 
 [![Spotify](https://novatorem.xxkeefer.vercel.app//api/spotify)](https://open.spotify.com/user/12179586444)
@@ -25,4 +29,4 @@
 
  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master.xxkeefer.vercel.app/api?username=xxKeefer&show_icons=true&hide_border=true" />
 
-[website]: www.danielkeefer.com
+[website]: www.keefer.tech
