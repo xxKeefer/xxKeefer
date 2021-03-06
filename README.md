@@ -18,7 +18,7 @@
 
 **Things to know about me:**
 
-- 🧙‍♂️ I'm currently studying at Coder Academy.
+- 🧙‍♂️ I'm currently looking for work after studying at Coder Academy.
 - 🧑‍💻 I'm learning Rails and React right now.
 - 🎮 Looking forward to Cyberpunk 2077.
 - ↪️ 2021 Goal: Switch Industries, from Sales to Tech.
