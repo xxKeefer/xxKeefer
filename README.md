@@ -21,7 +21,7 @@
 - 🧙‍♂️ I'm currently studying at Coder Academy.
 - 🧑‍💻 I'm learning Rails and React right now.
 - 🎮 Looking forward to Cyberpunk 2077.
-- ↪️ 2020 Goal: Switch Industries, from Sales to Tech.
+- ↪️ 2021 Goal: Switch Industries, from Sales to Tech.
 - 🚀 I love Star Trek, DnD and Overwatch. Talk for hours about this stuff.
 
 <!--START_SECTION:waka-->
