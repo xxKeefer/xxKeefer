@@ -2,9 +2,7 @@
 
 ## Professional Web Wizard 🧙‍♂️💻 Certified Software Sorcerer.
 
-I turn problems 🤯 into magic ✨ using computers.
-
-### Father, Gamer and Big ol' Nerd.
+### I turn problems 🤯 into magic ✨ using computers.
 
 - [🐦 Twitter](https://twitter.com/xxKeefer)
 - [📑 LinkedIn](https://www.linkedin.com/in/xxkeefer/)
