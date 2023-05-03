@@ -4,22 +4,20 @@
 
 ### I turn problems 🤯 into magic ✨ using computers.
 
-- [🐦 Twitter](https://twitter.com/xxKeefer)
-- [📑 LinkedIn](https://www.linkedin.com/in/xxkeefer/)
-- [🌐 Website](https://www.keefer.au)
+[🐦 Twitter](https://twitter.com/xxKeefer) | [📑 LinkedIn](https://www.linkedin.com/in/xxkeefer/) | [🌐 Website](https://www.keefer.au)
 
+🧙‍♂️ I love React and Typescript.
 
-**TL;DR**
+🧑‍💻 I like Functional Programming.
 
-- 🧙‍♂️ I love React and Typescript.
-- 🧑‍💻 I Functional over OOP.
-- 🎮 Looking forward to DnD this weekend.
-- ↪️ Current Goal: Get real good at Test Driven Development.
-- 🚀 I love Star Trek, DnD and Philosphy. Talk for hours about this stuff.
+🐲 Looking forward to DnD this weekend.
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+↪️ Current Goal: Learn Rust 🦀.
 
- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master.xxkeefer.vercel.app/api?username=xxKeefer&show_icons=true&hide_border=true" />
+🚀 I love Star Trek, DnD and Philosophy. Talk for hours about this stuff.
+
+### 🧔 A little about me
+
+I love tech. They say any sufficiently advanced tech is like magic to the uninitiated, and who doesn't want to be a Wizard? I love to use React and Typescript to turn problems into magic on the internet. Outside of tech, I am married to my highschool sweetheart and love my two wonderful daughters. I love to cook as a bit of a zen activity to avoid burnout, my pickled onions are to die for. What's left of my free time gets spent telling stories with friends through role playing games. Currently I enjoy helping one of my best friends to develop a rules system for telling stories called Omen.
 
 [website]: https://www.keefer.au
