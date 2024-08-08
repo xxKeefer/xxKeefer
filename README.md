@@ -12,7 +12,7 @@
 
 🐲 Looking forward to DnD this weekend.
 
-↪️ Current Goal: Learn Rust 🦀.
+↪️ Current Goal: Learn Gleam 🌟.
 
 🚀 I love Star Trek, DnD and Philosophy. Talk for hours about this stuff.
 
