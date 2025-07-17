@@ -1,4 +1,5 @@
 # Daniel John Keefer  
+**I turn problems 🤯 into magic 🌟 using computers.**
 ## Senior Frontend Engineer  
 📍 Brisbane, AU · 📧 [xxkeefer@pm.me](mailto:xxkeefer@pm.me)   · 🌐 [keefer.au](http://keefer.au)   · 🔗 [LinkedIn](https://www.linkedin.com/in/xxkeefer/)  ·  [GitHub](https://github.com/xxKeefer)
 
@@ -68,13 +69,16 @@ TDD, Agile, CI/CD, Git Workflows, Design Systems, Code Reviews
 ### 💻 Projects
 
 **Keefer.au** — *Lead Developer*  
-🌐 [keefer.au](https://keefer.au)A personal technical blog powered by MDX and Next.js. Deployed via Vercel.  
+🌐 [keefer.au](https://keefer.au)<br/>
+A personal technical blog powered by MDX and Next.js. Deployed via Vercel.  
 🛠️ *Stack:* Next.js, TypeScript, Tailwind CSS, MDX
 
 **Omen Docs** — *Full Stack Developer*  
-🌐 [omen-docs.vercel.app](https://omen-docs.vercel.app)An editable content site for a tabletop RPG system, enabling collaborative publishing.  
+🌐 [omen-docs.vercel.app](https://omen-docs.vercel.app)<br/>
+An editable content site for a tabletop RPG system, enabling collaborative publishing.  
 🛠️ *Stack:* Next.js, tRPC, Prisma, PlanetScale, Sanity CMS, Vercel
 
 **Flash Cards** — *Lead Developer*  
-🌐 [flash-cards-rouge.vercel.app](https://flash-cards-rouge.vercel.app)Mobile-friendly phonics game to help my daughter with reading practice.  
+🌐 [flash-cards-rouge.vercel.app](https://flash-cards-rouge.vercel.app)<br/>
+Mobile-friendly phonics game to help my daughter with reading practice.  
 🛠️ *Stack:* React, React Query, Tailwind CSS, Vercel
